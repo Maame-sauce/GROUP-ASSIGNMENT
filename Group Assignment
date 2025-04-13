@@ -2,7 +2,7 @@ INSERT_DATA.sql
 -- Insert into country
 INSERT INTO country (countryname) VALUES
 ('Kenya'),
-('South Africa'),
+('USA'),
 ('UK');
 
 -- Insert into address_status
